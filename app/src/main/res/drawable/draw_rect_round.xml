@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+<!--    <solid android:color="#6000"></solid> &lt;!&ndash;顏色填滿&ndash;&gt;-->
+    <solid android:color="#60F9EFE6"></solid> <!--顏色填滿-->
+
+    <corners android:radius="20dp"></corners> <!--圓角幅度-->
+    <!--在設在預使用圓角標籤的background設 android:background="@drawable/rect_round"-->
+</shape>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "577353632028",
+    "project_id": "myveganorder",
+    "storage_bucket": "myveganorder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577353632028:android:421d9bcf2ed0804ac352d9",
+        "android_client_info": {
+          "package_name": "prj.demo.myveganorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577353632028-spe739ho5mi3k117fc2jqv60k0kcbdlt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "prj.demo.myveganorder",
+            "certificate_hash": "2ddf5102ccfb0b8a7d62a19a6d69467a4287c6ab"
+          }
+        },
+        {
+          "client_id": "577353632028-o867o97b5kt0igc44e9u548abjamfet2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvafAft8iMlpuytXmaTemP5TTMo3ZsU54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577353632028-o867o97b5kt0igc44e9u548abjamfet2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+<resources>
+    <!--TODO:APP 名稱-->
+    <!--    <string name="app_name">MyVeganOrder</string>-->
+    <string name="app_name">來點蔬服</string>
+    <string name="order_completed_1">感謝您的購買</string>
+    <string name="order_completed_2">希望餐點您會滿意</string>
+    <string name="order_completed_3">也期待下次再為您服務</string>
+    <string name="order_completed">感謝您的購買 希望餐點您會滿意 也期待下次再為您服務</string>
+
+    <!--  Login  -->
+    <string name="login_wrong_acct">帳號不正確</string>
+    <string name="login_wrong_pwd">密碼不正確</string>
+    <string name="login_wrong_acct_and_pwd">請輸入正確的帳號和密碼</string>
+    <string name="login_right_acct_and_pwd">登入成功</string>
+    <string name="login_isOrNot">尚未登入</string>
+
+    <!--  Register  -->
+    <string name="register_wrong_email_fmt">請輸正確的信箱格式</string>
+    <string name="register_wrong_email_duplicate_acct">此帳號已有人使用</string>
+    <string name="register_wrong_name_length">請輸您的姓名</string>
+    <string name="register_wrong_email_length">請輸您的信箱</string>
+    <string name="register_wrong_pwd_length">請輸您的密碼</string>
+    <string name="register_wrong_phone_length">請輸入您的電話</string>
+
+</resources>

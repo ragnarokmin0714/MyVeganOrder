@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--TODO:Menu設定-->
+    <!--NOTE:已登入時 才會出現的頭像-->
+    <item
+        android:id="@+id/user_pic"
+        android:title="尚未登入"
+        android:visible="true"
+        app:showAsAction="always"></item>
+
+    <item
+        android:id="@+id/login"
+        android:title="Login"
+        app:showAsAction="always"></item>
+<!--    <item android:id="@+id/register"-->
+<!--        android:title="Register"></item>-->
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"
+        android:visible="true"
+        app:showAsAction="always"></item>
+</menu>

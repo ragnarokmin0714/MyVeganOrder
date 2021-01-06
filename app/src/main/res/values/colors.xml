@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--NOTE: Default color-->
+    <!--<color name="colorPrimary">#6200EE</color>-->
+    <!--<color name="colorPrimaryDark">#3700B3</color>-->
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorPrimary">#398078</color>
+    <color name="colorPrimaryDark">#218E83</color>
+
+    <!--NOTE: Button Color-->
+    <color name="colorBtnOK">#4CAF50</color>
+    <color name="colorBtnCancel">#F44336</color>
+</resources>
